@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PythonApplication1/PythonApplication1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="9c1996e1-a28b-4aea-a62d-8816c9058250">
+    <Build Project="false" />
+  </Project>
+  <Project Path="README/README.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="000259dc-2557-40f3-b6a2-8a741a7860ed">
+    <Build Project="false" />
+  </Project>
+</Solution>
